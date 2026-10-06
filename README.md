@@ -1,9 +1,5 @@
 # 📊 Quick Commerce Analytics — Dark Store Performance Challenge
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Analytics-742774)
-![SQL](https://img.shields.io/badge/SQL-Analytics-336791)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-601D49)
 
 > **Quick Commerce Analytics Challenge | Zipto Quick Commerce | Noida Cluster**  
 > **Analysis Period: 18 May – 28 June 2026**
