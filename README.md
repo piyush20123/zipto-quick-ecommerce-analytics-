@@ -9,6 +9,13 @@
 > **Analysis Period: 18 May – 28 June 2026**
 
 ---
+## 🏆 Achievement
+
+🥈 **Silver Medal – Data Analytics Hackathon**
+
+Organized by **AccioJob, Pune**  
+Date: **6 October 2026**
+
 
 ## 📌 Project Overview
 
